@@ -11,7 +11,7 @@ export const Filter = () => {
 
   return (
     <div className="mb-3">
-      <label htmlFor="name" className="form-label">
+      <label htmlFor="name" className="form--label">
         Find contact by name
       </label>
       <input
